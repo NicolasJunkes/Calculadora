@@ -41,8 +41,6 @@ namespace ProjetosLogicos
                 Console.WriteLine(resultado);
             }
             Console.ReadLine();
-
-
         }
     }
 }
