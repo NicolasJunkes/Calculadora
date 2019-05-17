@@ -1,0 +1,7 @@
+C:\Repositório\Estudos\ConsoleApp\ProjetosLogicos\ProjetosLogicos\bin\Debug\ProjetosLogicos.exe.config
+C:\Repositório\Estudos\ConsoleApp\ProjetosLogicos\ProjetosLogicos\bin\Debug\ProjetosLogicos.exe
+C:\Repositório\Estudos\ConsoleApp\ProjetosLogicos\ProjetosLogicos\bin\Debug\ProjetosLogicos.pdb
+C:\Repositório\Estudos\ConsoleApp\ProjetosLogicos\ProjetosLogicos\obj\Debug\ProjetosLogicos.csprojAssemblyReference.cache
+C:\Repositório\Estudos\ConsoleApp\ProjetosLogicos\ProjetosLogicos\obj\Debug\ProjetosLogicos.csproj.CoreCompileInputs.cache
+C:\Repositório\Estudos\ConsoleApp\ProjetosLogicos\ProjetosLogicos\obj\Debug\ProjetosLogicos.exe
+C:\Repositório\Estudos\ConsoleApp\ProjetosLogicos\ProjetosLogicos\obj\Debug\ProjetosLogicos.pdb
